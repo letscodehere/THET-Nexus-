@@ -1,0 +1,11 @@
+Construct,Variable,World Bank Indicator Code,Kaggle Source,Measurement,Role in Model
+Tourism development,"Tourist arrivals per 1,000 population",ST.INT.ARVL,International Tourism Demographics (Kaggle: ayushggarg/international-tourism-demographics),International tourist arrivals scaled by population; log-transformed,"Independent variable (H1, H3)"
+Environmental degradation,CO2 emissions per capita,EN.ATM.CO2E.PC,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Metric tons of CO2 per capita,"Dependent variable (H1, H3)"
+Environmental degradation (health pathway),PM2.5 air pollution,EN.ATM.PM25.MC.M3,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Mean annual population-weighted exposure (µg/m3),"Independent variable (H2, H4)"
+Public health,Life expectancy at birth,SP.DYN.LE00.IN,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Years,"Dependent variable (H2, H4)"
+Digital transformation / emerging technology,Fixed broadband subscriptions,IT.NET.BBND.P2,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Per 100 people,"Moderator (H3, H4)"
+Digital transformation (robustness),Mobile cellular subscriptions,IT.CEL.SETS.P2,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Per 100 people,Control / robustness
+Economic development,GDP per capita,NY.GDP.PCAP.CD,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Current US$; log-transformed,Control
+Urbanization,Urban population,SP.URB.TOTL.IN.ZS,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),% of total population,Control
+Green transition,Renewable energy consumption,EG.FEC.RNEW.ZS,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),% of total final energy consumption,Control
+Population scale,Total population,SP.POP.TOTL,World Bank World Development Indicators (Kaggle: nicolasgonzalezmunoz/world-bank-world-development-indicators),Total count; log-transformed,Control / scaling

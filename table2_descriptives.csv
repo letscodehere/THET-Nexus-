@@ -1,0 +1,10 @@
+Variable,N,Mean,SD,Min,Max
+"Tourist arrivals per 1,000 population",2010,1960.52,10550.44,0.66,173021.98
+CO2 emissions (metric tons per capita),2010,5.05,5.9,0.02,45.42
+"PM2.5 air pollution (µg/m³, mean annual exposure)",2010,23.25,14.1,4.19,107.02
+Life expectancy at birth (years),2010,71.24,8.02,43.61,84.48
+Fixed broadband subscriptions (per 100 people),2010,7.5,10.65,0.0,63.08
+Mobile cellular subscriptions (per 100 people),2010,74.69,44.49,0.03,207.32
+GDP per capita (current US$),2010,13776.88,19276.44,116.8,123678.71
+Urban population (% of total),2010,58.64,22.42,10.11,100.0
+Renewable energy consumption (% of total final energy),2010,28.39,27.35,0.0,96.8

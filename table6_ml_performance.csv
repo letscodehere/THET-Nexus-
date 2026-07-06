@@ -1,0 +1,4 @@
+Model,R2 (CO2 pc),RMSE (CO2 pc),MAE (CO2 pc),R2 (Life Exp.),RMSE (Life Exp.),MAE (Life Exp.)
+Ridge,0.261,2.957,2.508,0.794,4.112,3.227
+Random Forest,0.276,2.926,2.112,0.821,3.828,2.796
+XGBoost,0.262,2.955,2.006,0.836,3.672,2.601

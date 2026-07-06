@@ -1,0 +1,13 @@
+,DV: CO2 emissions per capita (H3),DV: Life expectancy at birth (H4)
+"Tourism intensity, ln, centered (H3)",-0.129 (0.158),
+"PM2.5, centered (H4)",,0.021* (0.012)
+"Digitalization (broadband/100, centered)",-0.009 (0.012),-0.031* (0.018)
+Tourism x Digitalization,-0.005 (0.005),
+PM2.5 x Digitalization,,0.001 (0.001)
+"GDP per capita, ln",1.243*** (0.300),0.930*** (0.324)
+Urban population (%),0.035 (0.039),0.031 (0.037)
+Renewable energy (%),-0.039*** (0.010),
+Mobile subscriptions (per 100),,-0.005 (0.003)
+N,2010,2010
+R2 (within),0.036,-0.001
+Countries,180.0,180.0
